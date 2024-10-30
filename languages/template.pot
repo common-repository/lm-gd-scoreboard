@@ -1,0 +1,74 @@
+# Copyright (C) 2016 lm_gd_scoreboard_widget
+# This file is distributed under the same license as the lm_gd_scoreboard_widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: lm_gd_scoreboard_widget\n"
+"Report-Msgid-Bugs-To: http://www.brcode.co.il\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Bar Shai <bar@bar-shai.co.il>\n"
+"Language-Team: Bar Shai <bar@bar-shai.co.il>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n\n"
+
+#: class-lm-gd-scoreboard-widget.php:19
+msgid "LeagueManager scoreboard widget for gameday theme."
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:30
+msgid "Gameday: LeagueManager Scoreboard Widget"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:82
+msgid " - Today"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:88
+msgid "Sun"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:91
+msgid "Mon"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:94
+msgid "Tue"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:97
+msgid "Wed"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:100
+msgid "Thu"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:103
+msgid "Fri"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:106
+msgid "Sat"
+msgstr ""
+
+#: class-lm-gd-scoreboard-widget.php:160
+msgid "R' %1$s - <strong>%2$s</strong>"
+msgstr ""
+
+#: lm-gd-scoreboard.php:43, lm-gd-scoreboard.php:65
+msgid "LeagueManager plugin isn't active or installed, "
+msgstr ""
+
+#: lm-gd-scoreboard.php:48, lm-gd-scoreboard.php:70
+msgid "Gameday or child theme of Gameday isn't your active theme, "
+msgstr ""
+
+#: lm-gd-scoreboard.php:51, lm-gd-scoreboard.php:73
+msgid "therefore LeagueManager scoreboard widget for Gameday can't be activate."
+msgstr ""

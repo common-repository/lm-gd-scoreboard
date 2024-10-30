@@ -1,0 +1,98 @@
+# Copyright (C) 2016 lm-gd-scoreboard-widget
+# This file is distributed under the same license as the lm-gd-scoreboard-widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: lm-gd-scoreboard-widget\n"
+"Report-Msgid-Bugs-To: http://www.brcode.co.il\n"
+"POT-Creation-Date: 2016-02-12 20:31+0200\n"
+"PO-Revision-Date: 2016-02-12 20:31+0200\n"
+"Last-Translator: Bar Shai <baraluf@gmail.com>\n"
+"Language-Team: Bar Shai <bar@bar-shai.co.il>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: lm-gd-scoreboard.php:43 lm-gd-scoreboard.php:65
+#: Build/lm-gd-scoreboard/lm-gd-scoreboard.php:43
+#: Build/lm-gd-scoreboard/lm-gd-scoreboard.php:65
+msgid "LeagueManager plugin isn't active or installed, "
+msgstr "התוסף ליג מנג'ר לא פעיל או מותקן, "
+
+#: lm-gd-scoreboard.php:48 lm-gd-scoreboard.php:70
+#: Build/lm-gd-scoreboard/lm-gd-scoreboard.php:48
+#: Build/lm-gd-scoreboard/lm-gd-scoreboard.php:70
+msgid "Gameday or child theme of Gameday isn't your active theme, "
+msgstr "Gameday או תבנית בת של Gameday היא לא התבנית הנוכחית של וורדפרס, "
+
+#: lm-gd-scoreboard.php:51 lm-gd-scoreboard.php:73
+#: Build/lm-gd-scoreboard/lm-gd-scoreboard.php:51
+#: Build/lm-gd-scoreboard/lm-gd-scoreboard.php:73
+msgid ""
+"therefore LeagueManager scoreboard widget for Gameday can't be activate."
+msgstr "לכן לא ניתן להפעיל את  וידג'ט לוח התוצאות של ליג מנג'ר עבור Gameday."
+
+#: class-lm-gd-scoreboard-widget.php:19
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:19
+msgid "LeagueManager scoreboard widget for gameday theme."
+msgstr "לוח תוצאות של ליג מנג'ר עבור ערכת העיצוב gameday."
+
+#: class-lm-gd-scoreboard-widget.php:30
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:30
+msgid "Gameday: LeagueManager Scoreboard Widget"
+msgstr "Gameday: וידג'ט לוח תוצאות של ליג מנג'ר"
+
+#: class-lm-gd-scoreboard-widget.php:82
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:82
+msgid " - Today"
+msgstr " - היום"
+
+#: class-lm-gd-scoreboard-widget.php:88
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:88
+msgid "Sun"
+msgstr "ראשון"
+
+#: class-lm-gd-scoreboard-widget.php:91
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:91
+msgid "Mon"
+msgstr "שני"
+
+#: class-lm-gd-scoreboard-widget.php:94
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:94
+msgid "Tue"
+msgstr "שלישי"
+
+#: class-lm-gd-scoreboard-widget.php:97
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:97
+msgid "Wed"
+msgstr "רביעי"
+
+#: class-lm-gd-scoreboard-widget.php:100
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:100
+msgid "Thu"
+msgstr "חמישי"
+
+#: class-lm-gd-scoreboard-widget.php:103
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:103
+msgid "Fri"
+msgstr "שישי"
+
+#: class-lm-gd-scoreboard-widget.php:106
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:106
+msgid "Sat"
+msgstr "שבת"
+
+#: class-lm-gd-scoreboard-widget.php:160
+#: Build/lm-gd-scoreboard/class-lm-gd-scoreboard-widget.php:160
+#, php-format
+msgid "R' %1$s - <strong>%2$s</strong>"
+msgstr "מח' %1$s - <strong>%2$s</strong>"
